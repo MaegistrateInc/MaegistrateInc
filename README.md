@@ -1,4 +1,4 @@
-# Maegistrate
+# Maegistrate, Inc.
 
 Cert-grade systems engineering. Verifiable where it matters; functional
 where it helps. 
